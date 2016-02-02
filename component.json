@@ -1,0 +1,12 @@
+{
+    "name": "combined-stream",
+    "description": "A stream that emits multiple other streams one after another.",
+    "repos": "https://github.com/felixge/node-combined-stream.git",
+    "main": "lib/combined_stream",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "delayed-stream": "^1.0.0"
+    },
+    "version": "1.0.1"
+}
